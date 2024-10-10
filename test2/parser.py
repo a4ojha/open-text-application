@@ -1,5 +1,5 @@
 # Scraped all items from https://www.microfocus.com/en-us/products?trial=true through DevTools into website.html. For a dynamic retrieval solution Selenium/requests can be leveraged.
-# Resulting JSON file: https://github.com/a4ojha/open-text-application/test2/products.json
+# Resulting JSON file: https://github.com/a4ojha/open-text-application/blob/main/test2/products.json
 
 # Each product will have the following items:
     # Product Name
