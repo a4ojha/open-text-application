@@ -12,6 +12,3 @@ This is my application for the Full Stack Developer Intern position.
     -    Free Trial / Demo Request URL
     -    Support Link URL
     -    Community Link URL
-
-
-The code can be shared via CodePen, Git, or equivalent. Please ensure to attach your coding test results with your application. Applications without the coding test results will not be accepted.
