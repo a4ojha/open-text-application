@@ -15,4 +15,5 @@ This is my application for the Full Stack Developer Intern position.
     -    Support Link URL
     -    Community Link URL
 
-    **Implementation**: [test2](https://github.com/a4ojha/open-text-application/blob/main/test2/parser.py)
+    **Implementation**: [test2](https://github.com/a4ojha/open-text-application/blob/main/test2/parser.py) \
+    **Resulting JSON**: [products.json](https://github.com/a4ojha/open-text-application/blob/main/test2/products.json)
